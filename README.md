@@ -22,32 +22,29 @@ bash
 Copy code
 javac BookstoreApplication.java
 java BookstoreApplication
-Features
-Browse Books:
+#### Features
+**Browse Books:**
 
 View the list of available books, including details like title, author, and genre.
-Search and Filter:
+**Search and Filter:** 
 
 Easily search for specific books or filter the list based on author, genre, or publication year.
 Add New Books:
 
-Add books to the database, providing details such as title, author, genre, and publication year.
+**Add books** to the database, providing details such as title, author, genre, and publication year.
 Update Book Information:
 
-Modify existing book details, including title, author, genre, and publication year.
+**Modify** existing book details, including title, author, genre, and publication year.
 Remove Books:
 
-Remove books from the collection when they are no longer needed.
+**Remove** books from the collection when they are no longer needed.
 Sort Books:
 
-Sort the book list alphabetically, by author, or by publication year.
-Contributing
+**Sort** the book list alphabetically, by author, or by publication year.
+##### Contributing
 If you would like to contribute to the development of this Bookstore Application, feel free to fork the repository, make your changes, and submit a pull request. Your contributions are highly welcome!
 
-Issues and Feedback
+###### Issues and Feedback
 If you encounter any issues or have suggestions for improvement, please open an issue. Your feedback is valuable and helps enhance the application.
 
-License
-This Bookstore Application is open-source and available under the MIT License. Feel free to use, modify, and distribute it according to the terms of the license.
 
-Thank you for using the Bookstore Application! Happy reading! 📚
