@@ -26,6 +26,7 @@ java BookstoreApplication
 **Browse Books:**
 
 View the list of available books, including details like title, author, and genre.
+
 **Search and Filter:** 
 
 Easily search for specific books or filter the list based on author, genre, or publication year.
